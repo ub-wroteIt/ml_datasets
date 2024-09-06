@@ -1,0 +1,4 @@
+Dataset description
+This problem has the following inputs: 
+1. Year, 2. parent_entity, 3. production_value, 4. product_emissions_MtCO2, 5. flaring_emissions_MtCO2, 6. venting_emissions_MtCO2, 7. fugitive_methane_emissions_MtCO2e, 8. fugitive_methane_emissions_MtCH4
+The only output is: total_emissions_MtCO2e
